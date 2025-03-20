@@ -1,0 +1,4 @@
+site_name: LTS Community PBX
+site_url: https://communitypbx.landlinetelephonesociety.com/docs/
+theme:
+  name: material
