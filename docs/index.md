@@ -1,9 +1,17 @@
 # Welcome to the Landline Telephone Society Community PBX!
 
-A free public VoIP network/phone system for the telephony community! Wether you get started with or want to learn about VoIP, looking for people to chat with, intrested in phones, or just want to be apart of a large network, we have a place for everyone!
+A free, public FreePBX-based VoIP phone system for the telephony community!
 
-Our goal is to make it as easy as possible for anyone to join, connnect their phone, and make their first phone call. And this official documentation will help you with everything from joining, to connecting your phones, to using your extension!
+Whether you're getting started with VoIP, want to learn more about it, looking for people to chat with, interested in phones, or just want to be part of a big network, we've got a place for you.
 
-The LTS Community PBX has a vast array of features such as voicemail, call recording, automatic provisioning, SCCP support, discord bots, remote access via phone and so much more!
+Our goal is to make it as easy as possible for anyone to join, connect their phone, and make their first call. This official documentation will help with everything from joining, to hooking up your phone, to using your extension. It's super easy. Most people can get started and make their first call in 15 minutes or less.
 
-Every user gets their own 4-digit extension and they can call between each other, and receive incoming and outgoing calls via +1 (475) 777-1331.
+The LTS Community PBX has tons of features like voicemail, call recording, auto provisioning, SCCP support, Discord bots, remote access by phone, and way more.
+
+## Getting Started
+
+Just getting started? Head over to Get Started
+
+## Contribute on GitHub
+
+This documentation is open-source is available on GitHub. We welcome contributions, feedback, and improvements from the community.
