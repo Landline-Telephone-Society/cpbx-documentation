@@ -14,4 +14,4 @@ If a call on the PBX is being recorded, an announcement will play before the cal
 
 All call recordings are stored on the PBX. **And staff may not under any circumstance listen or download call recordings with permission from at least one party.**
 
-Of course it is best to not trust anyone. Don't say personal info or say something you know you will regret saying later.
+Of course it is best to not trust anyone. Don't say personal info or say something you know you will regret saying later. OK
