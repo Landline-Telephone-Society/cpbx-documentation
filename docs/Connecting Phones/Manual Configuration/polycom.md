@@ -62,7 +62,7 @@ Callback Contact: *97
 
 Once you did all that, the config should look something like this:
 
-![Poly Configuration Utility Lines](weblineconfig.png){ width="250" height="250" style="display: block; margin: 0 auto" }
+![Poly Configuration Utility Lines](polycomweblineconfig.png){ width="250" height="250" style="display: block; margin: 0 auto" }
 
 Now save the config. The phone screen should reload, and the line key should show. A green check indicates the line is registered and good to go. If not, make sure you entered the correct info, and refer to Troubleshooting: Line not registered.
 
