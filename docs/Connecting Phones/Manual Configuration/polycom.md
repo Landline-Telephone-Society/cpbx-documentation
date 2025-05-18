@@ -4,10 +4,11 @@ Manually configuring a Polycom/Poly phone can be somewhat complex compared to mo
 
 We recommend configuring the phone via the web interface. It can be done on the phone itself, but is rather hard.
 
-## Via web interface
+## Via Poly Web Configuration Utility (web interface)
 
 Find the IP address of the phone, then go to https://<ip> in your browser (The phone will not allow HTTP (port 80) by default!).
 
+![Poly Configuration Utility Login](login.png){ width="250" height="250" style="display: block; margin: 0 auto" }
 
  Login as admin. The default password is 456 if you are running an older frimware. (Newer frimware requries admin password to be set upon first boot.)
 
