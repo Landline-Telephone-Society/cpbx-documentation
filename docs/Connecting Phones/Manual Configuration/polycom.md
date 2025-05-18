@@ -26,36 +26,45 @@ Under the line settings, set the following:
 
 ### SIP Settings
 *Only applicable to certain models*
+
 SIP Protocol: Enable
 
 ### H.323 Settings
 *Only applicable to certain models*
+
 H.323 Protocol: Disable
 
 ### Identification
 Address: Your extension number
+
 Label: Whatever you want, this will show up on the line key. (Recommended: <YourExtensionNumber>-<YourExtensionName>
 
 ### Authentication
 Use Login Credentials: Disable
+
 User ID: Your extension number
+
 Password: Your SIP Password
 
 ### SIP Server 1
 Address: communitypbx.landlinetelephonesociety.com
+
 Port: 5060 (You can also use 17777 as alternative port if you cannot use 5060 for some reason) 
+
 Transport: This is fine as the default value of DNSSanptr, however if you are having issues with the line staying registered, change this to TCPpreferred.
 
 ### Message Center
 *THIS IS REQURIED FOR THE VOICEMAIL BUTTON TO WORK PROPERLY, BUT IS OPTIONAL*
+
 Callback Mode: Contact
+
 Callback Contact: *97
 
-The config should look something like this:
+Once you did all that, the config should look something like this:
 
 ![Poly Configuration Utility Lines](weblineconfig.png){ width="250" height="250" style="display: block; margin: 0 auto" }
 
-Now save the config. The phone screen should reload, and the line key should show. A green check indactes the line is registered and good to go. If not, make sure you entered the correct info, and refer to Troubleshooting: Line not registered.
+Now save the config. The phone screen should reload, and the line key should show. A green check indicates the line is registered and good to go. If not, make sure you entered the correct info, and refer to Troubleshooting: Line not registered.
 
 While unlikey, if you are unable to receive incoming calls after a few mintues of making a call, go to Settings > Networking > NAT and set Keep-Alive Interval (s) to 15. This may be an issue on some older or cheaper routers.
 
