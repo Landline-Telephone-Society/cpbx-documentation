@@ -39,16 +39,18 @@ This is a full compatibility chart of all phones tested with the LTS Community P
 | Dialer         | Mobile softphone | Fully Compatible         |
 
 ## Cisco/Linksys/Sipura
+[^1]HTTP provisioning is only supported in frimware 9-4. The phone will not provision or will require a local TFTP server or our TFTP relay server on older frimwares if using a router that does not support TFTP handling.
+[^1]Device is required to be provisoned and does not support HTTP provisioning, so a local TFTP server or our TFTP relay server is requried if using a router that does not support TFTP handling.
 
 | Model          | Device Type      | Status                   |
 |----------------|------------------|--------------------------|
-| CP7942 (SCCP)  | IP Phone         | Fully Functional         |
-| CP7942 (SIP)   | IP Phone         | Not working, Experimental|
-| CP7965 (SCCP)  | IP Phone         | Fully Functional         |
-| CP7962 (SIP)   | IP Phone         | Not working, Experimental|
-| CP7970 (SCCP)  | IP Phone         | Fully Functional         |
-| CP7975 (SCCP)  | IP Phone         | Fully Functional         |
-| CP7975 (SIP)   | IP Phone         | Not working, Experimental|
+| CP7942 (SCCP)  | IP Phone         | Fully Functional[^1] |
+| CP7942 (SIP)   | IP Phone         | Not working, Experimental[^1]|
+| CP7965 (SCCP)  | IP Phone         | Fully Functional[^1]}       |
+| CP7962 (SIP)   | IP Phone         | Not working, Experimental[^1]|
+| CP7970 (SCCP)  | IP Phone         | Fully Functional[^1]         |
+| CP7975 (SCCP)  | IP Phone         | Fully Functional[^1]         |
+| CP7975 (SIP)   | IP Phone         | Not working, Experimental[^1]|
 | CP7811         | IP Phone         | Fully Functional when using a CHAN_SIP (CISCO) extension, advanced features do not work on a normal CHAN_SIP extension, phone can not receive calls or auto-hangup on a PJSIP extenson.|
 | CP7811-3PCC    | IP Phone         | Fully Compatible         |
 | CP7821         | IP Phone         | Fully Functional when using a CHAN_SIP (CISCO) extension, advanced features do not work on a normal CHAN_SIP extension, phone can not receive calls or auto-hangup on a PJSIP extenson.|
@@ -70,6 +72,7 @@ This is a full compatibility chart of all phones tested with the LTS Community P
 | CUCM           | Software IP-PBX  | Only works with an IP-auth based extension with port fowarding due to lack of support for SIP trunk registration. It's recommended to use CUBE, FreePBX, or Asterisk as a SBC.       |
 | CUBE           | SBC              | Fully Compatible         |
 | CME            | Software IP-PBX  | Fully Compatible         |
+| IP Communicator (SCCP) | Windows Softphone | Fully Functional (requires router that handles TFTP properly, or local TFTP server)[^2]|
 | SPA1000        | 1-line ATA       | Fully Compatible         |
 | SPA112         | 2-line ATA       | Fully Compatible         |
 | SPA122         | 2-line ATA/router| Fully Compatible         |
