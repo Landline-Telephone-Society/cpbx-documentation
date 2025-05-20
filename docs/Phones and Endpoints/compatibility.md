@@ -48,7 +48,7 @@ This is a full compatibility chart of all phones tested with the LTS Community P
 | CP7942 (SIP)   | IP Phone         | Not working, Experimental[^1]|
 | CP7965 (SCCP)  | IP Phone         | Fully Functional[^1]}       |
 | CP7962 (SIP)   | IP Phone         | Not working, Experimental[^1]|
-| CP7970 (SCCP)  | IP Phone         | Fully Functional[^1]         |
+| CP7970 (SCCP)  | IP Phone         | Fully Functional[^2]         |
 | CP7975 (SCCP)  | IP Phone         | Fully Functional[^1]         |
 | CP7975 (SIP)   | IP Phone         | Not working, Experimental[^1]|
 | CP7811         | IP Phone         | Fully Functional when using a CHAN_SIP (CISCO) extension, advanced features do not work on a normal CHAN_SIP extension, phone can not receive calls or auto-hangup on a PJSIP extenson.|
