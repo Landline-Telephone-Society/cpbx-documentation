@@ -39,8 +39,8 @@ This is a full compatibility chart of all phones tested with the LTS Community P
 | Dialer         | Mobile softphone | Fully Compatible         |
 
 ## Cisco/Linksys/Sipura
-[^1]: HTTP provisioning is only supported in frimware 9-4. The phone will not provision or will require a local TFTP server or our TFTP relay server on older frimwares if using a router that does not support TFTP handling.
-[^1]: Device is required to be provisoned and does not support HTTP provisioning, so a local TFTP server or our TFTP relay server is requried if using a router that does not support TFTP handling.
+[^1]: HTTP provisioning is only supported in frimware 9-4. If using an older frimware, the device will have limited functionality if TFTP is not available. Using 9-4 is recommended.
+[^2]: Device does not support HTTP provisioning, the device will have limited functionality if TFTP is not available.
 
 | Model          | Device Type      | Status                   |
 |----------------|------------------|--------------------------|
