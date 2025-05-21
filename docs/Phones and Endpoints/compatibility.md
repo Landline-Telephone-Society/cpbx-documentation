@@ -72,7 +72,7 @@ This is a full compatibility chart of all phones tested with the LTS Community P
 | CUCM           | Software IP-PBX  | Only works with an IP-auth based extension with port fowarding due to lack of support for SIP trunk registration. It's recommended to use CUBE, FreePBX, or Asterisk as a SBC.       |
 | CUBE           | SBC              | Fully Compatible         |
 | CME            | Software IP-PBX  | Fully Compatible         |
-| IP Communicator (SCCP) | Windows Softphone | Fully Functional [^2]|
+| IP Communicator (SCCP) | Windows Softphone | Fully Functional|
 | SPA1000        | 1-line ATA       | Fully Compatible         |
 | SPA112         | 2-line ATA       | Fully Compatible         |
 | SPA122         | 2-line ATA/router| Fully Compatible         |
