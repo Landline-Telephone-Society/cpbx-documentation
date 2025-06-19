@@ -1,6 +1,6 @@
 # Welcome to the Landline Telephone Society Community PBX!
 
-A free, public FreePBX-based VoIP phone system for the telephony community!
+A free, public Asterisk-based VoIP phone system for the telephony community!
 
 Whether you're getting started with VoIP, want to learn more about it, looking for people to chat with, interested in phones, or just want to be part of a big network, we've got a place for you.
 
