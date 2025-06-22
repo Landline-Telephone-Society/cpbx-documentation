@@ -14,4 +14,4 @@ Just getting started? Head over to Get Started
 
 ## Contribute on GitHub
 
-This documentation is open-source is available on GitHub. We welcome contributions, feedback, and improvements from the community.
+This documentation is available on GitHub. We welcome contributions, feedback, and improvements from the community.
