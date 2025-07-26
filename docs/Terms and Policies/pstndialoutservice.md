@@ -23,5 +23,5 @@ If we find out you are breaking these terms, we reserve the right to:
 
 If you are temporarily blocked from using the PSTN, we may in some rare cases, choose to start recording your PSTN calls temporarily if we choose to reinstate your PSTN service. We will make sure you know before we reinstate it.
 
-In order to use the Dial-out service, you must acppet these terms and condtions. To do so, go to the UCP, go to your account setting (by clicking your name on the menu bar), and go to "PSTN dial-out service".
+In order to use the Dial-out service, you must accept these terms and condtions. To do so, go to the UCP, go to your account setting (by clicking your name on the menu bar), and go to "PSTN dial-out service".
 If you decline these terms, you will not be able to use the LTS Community PBX dial-out service. If you choose to decline and want to accept them in the future, you will need to contact administration.
